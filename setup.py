@@ -11,7 +11,7 @@ from setuptools import setup, find_packages
 setup(
 
     name = 'zipcodetw',
-    version = '0.6.1',
+    version = '0.7',
     description = 'Find Taiwan ZIP code by address fuzzily.',
     long_description = open('README.rst').read(),
 
