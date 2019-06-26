@@ -1,11 +1,13 @@
-.. .. image:: https://pypip.in/v/zipcodetw/badge.png?v=0.5.7
-..    :target: https://pypi.python.org/pypi/zipcodetw
-..
-.. .. image:: https://pypip.in/d/zipcodetw/badge.png?v=0.5.7
-..    :target: https://pypi.python.org/pypi/zipcodetw
-
 The ZIP Code Finder for Taiwan
 ==============================
+
+master |master| develop |develop|
+
+.. |master| image:: https://travis-ci.org/jamessa/zipcodetw.svg?branch=master
+    :target: https://travis-ci.org/jamessa/zipcodetw
+
+.. |develop| image:: https://travis-ci.org/jamessa/zipcodetw.svg?branch=develop
+    :target: https://travis-ci.org/jamessa/zipcodetw
 
 This package lets you find ZIP code by address in Taiwan.
 
@@ -55,6 +57,13 @@ It is available on PyPI:
 
 Just install it and have fun. :)
 
+Test
+----
+
+.. code-block:: python
+
+    python setup.py test
+
 Build Index Manually
 --------------------
 
@@ -76,7 +85,7 @@ Todo 待辦事項
 ----
 
 Continues Integration 持續整合
-把RE換成SCanner，一個簡單有趣的Computer Science.
+把RE換成Scanner，一個簡單有趣的Computer Science.
 
 
 Changelog
