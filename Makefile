@@ -1,5 +1,5 @@
 install:
-	pip install -v .
+	pip install -v -e .
 clean:
 	rm -rf .venv/
 	git clean -df
