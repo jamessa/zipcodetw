@@ -85,7 +85,7 @@ Todo 待辦事項
 ----
 
 Continues Integration 持續整合
-把RE換成SCanner，一個簡單有趣的Computer Science.
+把RE換成Scanner，一個簡單有趣的Computer Science.
 
 
 Changelog
