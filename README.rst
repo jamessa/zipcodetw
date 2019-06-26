@@ -81,6 +81,13 @@ Data
 The ZIP code directory is provided by Chunghwa Post, and is available from:
 http://www.post.gov.tw/post/internet/Download/all_list.jsp?ID=2201#dl_txt_s_A0206
 
+Todo 待辦事項
+----
+
+Continues Integration 持續整合
+把RE換成SCanner，一個簡單有趣的Computer Science.
+
+
 Changelog
 ---------
 
