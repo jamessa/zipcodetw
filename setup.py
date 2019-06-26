@@ -39,4 +39,6 @@ setup(
     packages = find_packages(),
     install_requires = ['six', 'unicodecsv'],
     package_data = {'zipcodetw': ['*.csv', '*.db']},
+    setup_requires=["pytest-runner"],
+    tests_require=["pytest"],
 )

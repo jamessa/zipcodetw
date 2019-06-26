@@ -55,6 +55,13 @@ It is available on PyPI:
 
 Just install it and have fun. :)
 
+Test
+----
+
+.. code-block:: python
+
+    python setup.py test
+
 Build Index Manually
 --------------------
 
