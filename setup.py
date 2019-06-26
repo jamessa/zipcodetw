@@ -11,7 +11,6 @@ class zipcodetw_install(install):
     def run(self):
         print('Building ZIP code index ... ')
         sys.stdout.flush()
-        zipcodetw.builder.build()
         install.run(self)
 
 import zipcodetw

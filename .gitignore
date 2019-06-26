@@ -7,4 +7,6 @@
 /dist
 
 #
-/zipcodetw/*.db
+
+.venv
+.idea
